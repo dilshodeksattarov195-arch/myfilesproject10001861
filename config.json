@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "cacheuender",
+        "uuid": 6491168,
+        "checksum": "tly4ui"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
